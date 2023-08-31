@@ -1,2 +1,15 @@
 
 
+data added
+:wq!
+:
+:wq!
+:wq!
+:wq!
+
+$ git add .
+
+w::WQ!
+
+::wq
+::Wq!
